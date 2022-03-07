@@ -2,7 +2,7 @@
 _schema-version: '3.1'
 ID: zcapm
 version: 1.0.0
-description: "A simple CAP project by dibya1."
+description: "A simple CAP project by dibya2."
 parameters:
   enable-parallel-deployments: true
 build-parameters:
