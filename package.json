@@ -12,7 +12,8 @@
         "hdb": "^0.18.3"
     },
     "scripts": {
-        "start": "cds run"
+        "start": "cds run",
+        "postinstall": "npm link @sap/cds-dk --local"
     },
     "eslintConfig": {
         "extends": "eslint:recommended",
